@@ -1,6 +1,6 @@
 ## TOOBA BAQAI
 # 💫 About Me:
-👩‍💻 TOOBA BAQAI<br><br>AI / ML Engineer | GenAI & LLM Developer | Computer Vision | DevOps & Cloud<br>📍 Pakistan<br>
+AI / ML Engineer | GenAI & LLM Developer | Computer Vision | DevOps & Cloud<br>📍 Pakistan<br>
 🚀 Building intelligent AI systems, LLM-powered apps, and deep learning models<br>
 🧠 Experienced in Mental Health Prediction, U-Net Image Segmentation, and RAG pipelines<br>
 🤖 Passionate about real-world AI impact, scalable ML solutions, and GenAI innovation<br>
