@@ -1,11 +1,29 @@
 # 💫 About Me:
-👩‍💻 TOOBA BAQAI<br><br>AI / ML Engineer | GenAI & LLM Developer | Computer Vision | DevOps & Cloud<br>📍 Pakistan<br>📧 toobabaqai1@gmail.com<br><br>🔗 LinkedIn: http://www.linkedin.com/in/tooba-baqai<br><br>🔗 GitHub: https://github.com/Tooba-Baqai<br><br>🧠 About Me<br><br>
-
+👩‍💻 TOOBA BAQAI<br><br>AI / ML Engineer | GenAI & LLM Developer | Computer Vision | DevOps & Cloud<br>📍 Pakistan<br>
 🚀 Building intelligent AI systems, LLM-powered apps, and deep learning models<br>
 🧠 Experienced in Mental Health Prediction, U-Net Image Segmentation, and RAG pipelines<br>
 🤖 Passionate about real-world AI impact, scalable ML solutions, and GenAI innovation<br>
 ☁ Blending AI + Cloud + DevOps to deploy production-ready AI systems<br>
-
+## 💫Experience<br>
+🤖 Artificial Intelligence Intern — Neutrawise
+<br>Sep 2025 – Oct 2025<br>
+Built EcoBot, an AI chatbot generating personalized CO₂ reduction plans
+Implemented NLP & LLM pipelines for AI recommendations
+Designed automation for intelligent responses
+<br>☁ DevOps & Cloud Engineer Intern — Software Productivity Strategic Inc
+<br>Jul 2025 – Sep 2025<br>
+Worked on cloud computing & infrastructure automation
+Implemented CI/CD pipelines for faster deployment
+Managed DevOps workflows, cloud services, and system monitoring
+Improved deployment reliability and scalability
+<br>🧠 AI/ML Intern — DeveloperHub
+<br>Mar 2025 – Apr 2025<br>
+Built ML models, preprocessing pipelines, and evaluation workflows
+Worked on real-world AI applications & predictive models
+<br>💻 Full-Stack Developer — Smart Insight For Data Analysis
+<br>Jan 2025 – Jun 2025<br>
+Built analytics dashboards supporting AI-driven insights
+Developed scalable APIs using Node.js & Express
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkedIn: www.linkedin.com/in/tooba-baqai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toobabaqai1@gmail.com) 
